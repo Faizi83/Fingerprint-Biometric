@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PJ3kKLC53I7IshoKlygYlTeG2t93SUuZm4Woey8BnzI=",
+  "Source": "SecugenBiometric",
+  "BasePath": "_content/SecugenBiometric",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
